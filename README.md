@@ -1,5 +1,7 @@
 
-# OBJECT DETECTION USING WEB CAMERA
+## OBJECT DETECTION USING WEB CAMERA
+- ## Name: DHIVYASHREE R
+  ## Register No:212225040077
 
 ## Aim
 
@@ -170,27 +172,15 @@ else:
     print("Video saved as YOLO_Detection_Output.mp4")
 ```
 
----
-
-## Student Task
-
-1. Capture your own image using the laptop camera.
-2. Detect the objects present in the captured image.
-3. Display the final output with bounding boxes and labels.
-4. Perform the experiment using **3 different scenes**.
-5. Observe and compare the detected objects in each scene.
-
----
 
 ## Expected Output and Original Captured Image
 
 <img width="795" height="622" alt="image" src="https://github.com/user-attachments/assets/d48e93b5-82bf-4343-82a4-00493a0df126" />
 
-```
+
 
 ## Result
 
 Thus, object detection was successfully performed using the YOLOv8 model by accessing the laptop camera, capturing images, and identifying objects with bounding boxes and labels across three different scenes.
 
----
 
